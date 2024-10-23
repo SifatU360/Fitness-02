@@ -3,7 +3,34 @@
     @import url('https://fonts.cdnfonts.com/css/miama');
    
  
+    /* Extra Run related styles */
+    
+    .extra {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        width: 80%;
+        margin: 0 30px 0 20px;
+        padding: 40px 5%;
+    }
+    
+    .extra img {
+        width: 100%;
+        margin-top: 5px;
+    }
+    
+    .extra_container {
+        width: 100%;
+    }
+    
+    .extra-container h1{
+        text-align: left;
+    }
 
+    .button{
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
 
     /* BMI related style */
     
