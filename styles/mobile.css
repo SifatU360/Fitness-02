@@ -3,6 +3,27 @@
     @import url('https://fonts.cdnfonts.com/css/miama');
    
  
+
+
+    /* BMI related style */
+    
+    .bmi-title {
+        padding: 120px 5%;
+        padding-left: 10px;
+    }
+    
+    .bmi-main {
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        margin: 0 auto;
+        padding: 50px 0;
+    }
+
+    .bmi-calculate  {
+        padding-top: 3rem;
+    }
+
     /* Team Section related style */
     .team {
         padding: 150px 5%;
